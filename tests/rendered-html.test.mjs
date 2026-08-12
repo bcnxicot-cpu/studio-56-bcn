@@ -10,6 +10,9 @@ test("renders the verified business information", () => {
   assert.match(html, /647 911 448/);
   assert.match(html, /claremach2@gmail.com/);
   assert.match(html, /5,0/);
+  assert.match(html, /PARA CREAR/);
+  assert.match(html, /Tengo obras que enseñar/);
+  assert.doesNotMatch(html, /Talleres para empezar/);
 });
 
 test("all primary contact and booking routes are present", () => {
