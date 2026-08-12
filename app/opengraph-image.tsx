@@ -10,7 +10,7 @@ export default function Image() {
       <div style={{ display: "flex", flexDirection: "column", justifyContent: "space-between", width: "68%" }}>
         <div style={{ display: "flex", fontSize: 28, fontWeight: 800, letterSpacing: 3 }}>STUDIO 56 · SANTS · BCN</div>
         <div style={{ display: "flex", flexDirection: "column", fontWeight: 900, fontSize: 104, lineHeight: .86 }}>
-          <span>UN ESPACIO</span><span>PARA HACER.</span>
+          <span>UN ESPACIO</span><span>PARA CREAR.</span>
         </div>
         <div style={{ display: "flex", fontSize: 28, fontWeight: 700 }}>CERÁMICA · DIBUJO · COWORKING · EXPOSICIONES</div>
       </div>
