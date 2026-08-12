@@ -59,11 +59,12 @@ export default function Home() {
           <p className="eyebrow">Cerámica + dibujo + comunidad · Sants</p>
           <h1>
             UN ESPACIO
-            <span>PARA HACER.</span>
+            <span>PARA CREAR.</span>
           </h1>
           <p className="hero-lede">
-            Talleres para empezar, mesas para seguir y paredes para enseñar lo que haces.
-            Todo dentro de un estudio con luz natural en Carrer de Burgos 56.
+            Clases para descubrir la cerámica y el dibujo, un espacio donde desarrollar tu
+            propia obra y paredes para compartirla. Todo dentro de un estudio con luz natural
+            en Carrer de Burgos 56.
           </p>
           <div className="hero-actions">
             <a className="button button-dark" href={calendarLink} target="_blank" rel="noreferrer">
@@ -126,7 +127,7 @@ export default function Home() {
           </article>
           <article className="entry-card card-cream">
             <span className="card-number">03</span>
-            <h3>Tengo obra que enseñar</h3>
+            <h3>Tengo obras que enseñar</h3>
             <p>
               El estudio también funciona como espacio expositivo. Si tienes una propuesta de
               cerámica, pintura, dibujo o collage, escríbenos y la vemos.
